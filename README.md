@@ -1,27 +1,26 @@
 # SortingAlgorithms
+
 Sorting algorithms information and demo implementation in Java
 
-*Bubble
+ * Bubble
 
-*QuickSort
--pivot select - random
--pivot select - middal
--pivot select - right
+ * QuickSort
+
+ -pivot select - random
+ -pivot select - middal
+ -pivot select - right
 
 
-How to run:
+###How to run:
 
-*Import it in NetBeans or other IDE
+Import it in NetBeans or other IDE
 
-*Console:
+Console:
 
 Execute the following commands:
 
-
+```sh
 mvn clean compile
 
 mvn exec:java -Dexec.mainClass=com.nenkov.main.Main
-
-
-
-
+```
