@@ -6,11 +6,11 @@ Sorting algorithms information and demo implementation in Java
 
  * QuickSort
 
- - pivot select - random
+   - pivot select - random
 
- - pivot select - middal
+   - pivot select - middal
 
- - pivot select - right
+   - pivot select - right
 
 
 ###How to run:
